@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asaf Guluzade</h1>
-<h3 align="center">A passionate Software Developer</h3>
+<h3 align="center">Junior Python Developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/asefdevs/](https://github.com/asefdevs/)
-
-- 💬 Ask me about **Python , Django,Rest Framework**
+- 💬 Ask me about **Python , Django , Rest Framework**
 
 - 📫 How to reach me **asefdevs@gmail.com**
 
