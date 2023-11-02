@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asaf Guluzade</h1>
 <h3 align="center">Junior Python Developer</h3>
 
-- 💬 Ask me about **Python , Django , Rest Framework**
+- 💬 Ask me about **Python, Django, Rest Framework**
 
 - 📫 How to reach me **asefdevs@gmail.com**
 
